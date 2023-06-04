@@ -6,7 +6,8 @@ This repository contains documents for a project, which entailed the multiple li
 
 Generally-speaking, this repository is applicable to people looking to renovate their homes before selling them. In particular, the target audience are clients that want to increase their house's market value. In terms of the specific stakeholders for this project, the theoretical clients were residents in King County who wanted to increase the sale price of their homes to <b>at least $1M</b> by performing renovations on different features. 
 
-The business question this project aimed to answer was: <b>What combination of house features predict its sale price best?</b> 
+The business question this project aimed to answer was: 
+* <b>What combination of house features predict its sale price best?</b> 
 
 # The Dataset
 
