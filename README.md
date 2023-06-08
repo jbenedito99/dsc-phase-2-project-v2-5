@@ -42,6 +42,6 @@ My suggestions are:
 
 # Sources and References 
 
-* https://docs.google.com/presentation/d/1AcLuoKZqeQZ_nKB6Mj50B9WjmHtHx0_HMjpkTYuMeJc/edit?usp=sharing (presentation link) 
-* https://github.com/mojo-flat/Linear-Regression-GP-2
-* https://medium.com/analytics-vidhya/predicting-king-county-house-prices-with-multiple-linear-regression-84de5feeafb2 
+* [Presentation](https://docs.google.com/presentation/d/1AcLuoKZqeQZ_nKB6Mj50B9WjmHtHx0_HMjpkTYuMeJc/edit?usp=sharing) 
+* Used code from [this source](https://github.com/mojo-flat/Linear-Regression-GP-2) to transform categorical variables. 
+* Used code from [this source](https://medium.com/analytics-vidhya/predicting-king-county-house-prices-with-multiple-linear-regression-84de5feeafb2) to get rid of outliers in dataset. 
